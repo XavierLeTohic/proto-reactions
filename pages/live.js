@@ -19,6 +19,11 @@ export default class Live extends Component {
         this.socket.close()
     }
 
+    /**
+     * Will display the reaction at the bottom of the page with a random left position,
+     * then the CSS3 animation will start
+     * @param reaction
+     */
     displayReaction(reaction) {
 
         if(typeof reaction.type !== 'undefined') {
