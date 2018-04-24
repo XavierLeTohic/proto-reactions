@@ -5,6 +5,10 @@ The project used Next.js/Express/socket.io.
 The animations of the reactions are made in CSS3 to provide better performances.
 I used styled-jsx for styling component that are included in Next.js so don't think it's just inline CSS ;)
 
+Try online :
+[Reactions buttons](https://proto-reactions.now.sh)
+[Live with reactions](https://proto-reactions.now.sh/live)
+
 ### Setup
 
 Install it:
