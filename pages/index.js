@@ -45,6 +45,7 @@ export default class Index extends Component {
                             .reaction__button {
                                 transition: all 250ms;
                                 cursor: pointer;
+                                user-select: none;
                             }
                             .reaction__button:hover {
                                 transform: scale(1.1);
